@@ -704,9 +704,26 @@ section
 }
 .home_title h1
 {
-	font-size: 36px;
+	font-size: 80px;
 	color: #FFFFFF;
-	font-weight: 500;
+	font-weight: 550;
+	text-align: center;
+}
+#middle_title
+{
+	font-size: 80px;
+	color: black;
+	font-weight: 550;
+	text-align: center;
+}
+#middle_subtitle
+{
+	font-size: 18px;
+	font-weight: 300;
+	color: black;
+	line-height: 1.5;
+	margin-top: 14px;
+	text-align: center;
 }
 .home_subtitle
 {
@@ -715,6 +732,7 @@ section
 	color: #FFFFFF;
 	line-height: 1.5;
 	margin-top: 14px;
+	text-align: center;
 }
 .track
 {
@@ -1046,7 +1064,7 @@ section
 }
 .footer .logo a
 {
-	color: rgba(255,255,255,0.3);
+	color: white;
 }
 .footer_content_row
 {
